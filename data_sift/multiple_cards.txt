@@ -1,0 +1,8 @@
+data_sift/test/multiple\imgonline-com-ua-CompressToSize-7YX25R9I4AxxBov.jpg:As|2s|3s|
+data_sift/test/multiple\imgonline-com-ua-CompressToSize-657emXg4piX.jpg:5d|8c|
+data_sift/test/multiple\imgonline-com-ua-CompressToSize-JOE9PsekpK2.jpg:4d|9c|
+data_sift/test/multiple\imgonline-com-ua-CompressToSize-lrxpwQRuNPjUB8H.jpg:Qc|Ks|
+data_sift/test/multiple\imgonline-com-ua-CompressToSize-r6o5GjmnorFz62.jpg:Kd|As|10c|
+data_sift/test/multiple\imgonline-com-ua-CompressToSize-SbEDSThFCQqW4zC1.jpg:Kd|As|10c|
+data_sift/test/multiple\imgonline-com-ua-CompressToSize-X8Oinw17yGvI.jpg:As|Kd|10c|
+data_sift/test/multiple\imgonline-com-ua-CompressToSize-YpKJD183T3VrB.jpg:As|10c|Kd|
